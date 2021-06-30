@@ -1,3 +1,0 @@
-var _menu = require('./menu');
-// initialize the menu
-new _menu.Menu(document.querySelector('.menu'));
