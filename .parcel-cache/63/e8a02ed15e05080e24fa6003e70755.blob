@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Demoname | Demo 1 | Codrops</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Codrops">
+		<link rel="shortcut icon" href="341a7ca65c476e9195f17bbb4d73e830">
+		<link rel="stylesheet" href="ce76ba951451830255437cfe7cadb2cb">
+		<link rel="stylesheet" type="text/css" href="f54802ad23422b2dd67f74c57146c65d">
+		<script data-parcel-key="cb2664e1f0ff0770550988136f751301">document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+		<!--script src="//tympanus.net/codrops/adpacks/analytics.js"></script-->
+	</head>
+	<body class="demo-1">
+		<main>
+			<div class="frame">
+				<h1 class="frame__logo">Archicara <span>Studio</span></h1>
+				<nav class="frame__links">
+					<a href="c2bd3e8a1b41cde979d7bbe62ec042f6">Previous demo</a>
+					<a href="8e59a7e07d31e8b1ed4570bb695bbf47">Article</a>
+					<a href="19206097b10e1adb8b85f5e695e540ef">GitHub</a>
+				</nav>
+				<div class="frame__credits">Based on the menu of <a href="82f52fd4567398ff781a4c6c07da34ba">K72</a>.</div>
+				<a class="frame__author" href="11e6af0703eaebdf8cb216f6c68224cf">@codrops</a>
+			</div>
+			<div class="menu-wrap">
+				<nav class="menu">
+					<div class="menu__item">
+						<a class="menu__item-link">Cochabamba</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Dome House</span>
+									<div class="marquee__img" style="2ec6f7eb2a1b260dbdc4283a998d4bcb"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="cef377b084baf3d1d42f329d26b5c918"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="be89a8150ead6a7013a14236df9c887b"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="9084505ceda0098101174362a7ace449"></div>
+									<span>Dome House</span>
+									<div class="marquee__img" style="bfe22c186151472437b39730c6b26f6c"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="b3f0197eb8c77a9ccfaca4e244d86eb6"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="bc95641f06b22215ff883480020fcbb9"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="e71520aea5c65328926ac9e7e49e1434"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link">Guayaquil</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Dome House</span>
+									<div class="marquee__img" style="5b8fbbefdac19cf416a53fff1d127f03"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="0f3cc0ba5b1ffc9ee923514dfcf0b658"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="a1563ef71da3cff56018734eede5eeaa"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="089e132c0254a41cc8356ecb42c341aa"></div>
+									<span>Dome House</span>
+									<div class="marquee__img" style="5440e030d5451f628408d8c50d84b9db"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="f8e513732392eec6e2fc9df2f3f00fc5"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="dfc613e98a1cd0430ea1d14a62861537"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="459301833b2a15b2edea8552061478a0"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link">Montevideo</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Dome House</span>
+									<div class="marquee__img" style="c7ee320992e75083bce0a5910497b6fa"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="843f8957fd40813ca4fbce62e36c76ab"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="d83cbaeba54f2830fa0cfcaa04dc5ea2"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="b9679df82a81ef9db19864193b5a6491"></div>
+									<span>Dome House</span>
+									<div class="marquee__img" style="7c9c681bf3c656867fb7d3824e4cf49b"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="bd4f3a63edefce2ad02302d61e5de8a6"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="ad6a7c03999ae5ce5dc9ea60fd3f8192"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="fd2b76873f19a2d590d5fb79b4420aa5"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link">Cartagena</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Dome House</span>
+									<div class="marquee__img" style="c94d6029338e098184883926a357fe7a"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="323304baa7205c50c63b00e20d55babb"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="d24b40d21f4444c84c9349797de5124b"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="382059318bd61cd616a6542c1747fb6a"></div>
+									<span>Dome House</span>
+									<div class="marquee__img" style="5b9bbe8c240a69cfd7a39f3759946fcc"></div>
+									<span>Revellion Green</span>
+									<div class="marquee__img" style="e33e078cba467088bfcaac5450d45319"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="082d1728d5cf6338fd82553f93474fe9"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="5b5c5482284f0251ddf6f5eee2be5b15"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</main>
+		<!--script src="https://tympanus.net/codrops/adpacks/cda.js"></script-->
+		<script src="06dfe9f8db92a79f21cf80f953a0a070"></script>
+	</body>
+</html>

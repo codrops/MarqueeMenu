@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Menu with Marquee Hover | Codrops</title>
+		<meta name="description" content="A recreation of the marquee menu hover effect seen on the website of K72.">
+		<meta name="keywords" content="marquee, css, animation, menu, hover, javascript, k72">
+		<meta name="author" content="Codrops">
+		<link rel="shortcut icon" href="e1905ad4e1b985b3143049b0c46bc846">
+		<link rel="stylesheet" href="3f7fcd1bf965700b9defa7b113b709d7">
+		<link rel="stylesheet" type="text/css" href="37e171b812b641fe039fe4e6411eb8de">
+		<script data-parcel-key="97cc518d4e5b85b43a0f34d536d37212">document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+		<script src="6b7eba045345ba87cd59b0d0f0fa59d3"></script>
+	</head>
+	<body>
+		<main>
+			<div class="frame">
+				<h1 class="frame__logo">Archea Studio</h1>
+				<nav class="frame__links">
+					<a href="d71c978f7d7beb7b0f5680f2318d12ed">Previous demo</a>
+					<a href="80a3261e1c3e2d5daf81e13b3dcedf11">Article</a>
+					<a href="86c8452cf593c371ef28cc093e350166">GitHub</a>
+				</nav>
+				<div class="frame__credits">Recreation of the menu on <a href="77a034a20046c540b52999e3f4d4177b">K72</a>.</div>
+				<a class="frame__author" href="71639622dd76bde407f50e4fbe7384af">@codrops</a>
+			</div>
+			<div class="menu-wrap">
+				<nav class="menu">
+					<div class="menu__item">
+						<a class="menu__item-link" href="#">Guayaquil</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Frank Tower</span>
+									<div class="marquee__img" style="137e419ab76a2687864e3f87128cbf6d"></div>
+									<span>Dom Dom</span>
+									<div class="marquee__img" style="5a67766fc5b0d39b6cd711de556f7657"></div>
+									<span>Santa Maria</span>
+									<div class="marquee__img" style="91845493d25b04a186d2255fc72447d6"></div>
+									<span>Big Molly</span>
+									<div class="marquee__img" style="7ed54b6ff21b03f525205f5fb12ab94c"></div>
+									<span>Frank Tower</span>
+									<div class="marquee__img" style="dae13d485b7bc35b64614e90d7688338"></div>
+									<span>Dom Dom</span>
+									<div class="marquee__img" style="60c60f179db2159776c12ae272a24292"></div>
+									<span>Santa Maria</span>
+									<div class="marquee__img" style="f91576f4c9bceb92cb9f2ab4fca04ea5"></div>
+									<span>Big Molly</span>
+									<div class="marquee__img" style="d812002c8ed0e1d2746043570ca10c94"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link" href="#">Cochabamba</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Dome House</span>
+									<div class="marquee__img" style="3e273a0cbc3a3f23d33b7d06605ecbda"></div>
+									<span>Revellion High</span>
+									<div class="marquee__img" style="d77ef6ab6e58373e05cc40228e18bc7b"></div>
+									<span>Wax Palace</span>
+									<div class="marquee__img" style="f1795ecc4300eb2775a5319751123a66"></div>
+									<span>Cellar Tree</span>
+									<div class="marquee__img" style="2c739773c9ca560ed702e121ac3bab50"></div>
+									<span>Dome House</span>
+									<div class="marquee__img" style="e4f0eb8efcb9a266f68772584e891d4e"></div>
+									<span>Revellion High</span>
+									<div class="marquee__img" style="f825dab47f42770334173a695d8bf50b"></div>
+									<span>Wax Palace</span>
+									<div class="marquee__img" style="bb17d619e7012666e558ecc3ac457267"></div>
+									<span>Cellar Tree</span>
+									<div class="marquee__img" style="3eb57f4166730508bef6b7a5b3bcd81e"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link" href="#">Montevideo</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Mia Terra</span>
+									<div class="marquee__img" style="2f3349bfb556428a38bfbe973d25ba38"></div>
+									<span>Quest Hill</span>
+									<div class="marquee__img" style="82977345c4eb7783b70a1645880db062"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="5452f4d120e64a4171bc232bc2de0917"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="5f37c2bbf3a01aec21f9a81b68b13ef6"></div>
+									<span>Mia Terra</span>
+									<div class="marquee__img" style="614ba9f7dc757781402ef1cac9d3340b"></div>
+									<span>Quest Hill</span>
+									<div class="marquee__img" style="b2e9eada7f49b29cb01e69ec94aa3915"></div>
+									<span>Bean Palace</span>
+									<div class="marquee__img" style="affab39996ee6243ad79f42c318698ad"></div>
+									<span>Treehouse</span>
+									<div class="marquee__img" style="99d2a16a1bf3d49a37340b7bf902b060"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="menu__item">
+						<a class="menu__item-link" href="#">Cartagena</a>
+						<div class="marquee">
+							<div class="marquee__inner-wrap">
+								<div class="marquee__inner" aria-hidden="true">
+									<span>Tia Alta</span>
+									<div class="marquee__img" style="4f89b7c1dab8881e5ab69763773d86d0"></div>
+									<span>Quadratic Bliss</span>
+									<div class="marquee__img" style="51ed8328a2559ab16b9110fe411dadd2"></div>
+									<span>Host Mall</span>
+									<div class="marquee__img" style="cfc2bb7154bb6099f8a4592b31bba70c"></div>
+									<span>Freefall Dome</span>
+									<div class="marquee__img" style="10826e59b9603706ab9bd709e57de917"></div>
+									<span>Tia Alta</span>
+									<div class="marquee__img" style="746e72d0c8b7fd129288e7059e1c9385"></div>
+									<span>Quadratic Bliss</span>
+									<div class="marquee__img" style="fafcf73c0a68b841ef027aa33c47a008"></div>
+									<span>Host Mall</span>
+									<div class="marquee__img" style="a90cf4b7e2acb64a411e9e516393a915"></div>
+									<span>Freefall Dome</span>
+									<div class="marquee__img" style="5cab52e1e4a0cf3f408396cd66260204"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</main>
+		<script src="19e1a610dc5302f59e080d1544ed23bb"></script>
+		<script src="0654becbdd7963508a8180fac8f1c2da"></script>
+	</body>
+</html>

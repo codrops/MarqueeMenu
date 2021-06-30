@@ -1,0 +1,19 @@
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+_parcelHelpers.defineInteropFlag(exports);
+_parcelHelpers.export(exports, "Menu", function () {
+  return Menu;
+});
+var _menuItem = require('./menuItem');
+class Menu {
+  constructor(el) {
+    // .menu element
+    this.DOM = {
+      el: el
+    };
+    // the menu items
+    this.DOM.menuItems = this.DOM.el.querySelectorAll('.menu__item');
+    // array of MenuItem
+    this.menuItems = [];
+    this.DOM.menuItems.forEach(menuItem => this.menuItems.push(new _menuItem.MenuItem(menuItem)));
+  }
+}
